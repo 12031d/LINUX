@@ -1,2 +1,4 @@
 uname -n
 free -g
+
+commit
